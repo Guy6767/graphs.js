@@ -75,7 +75,6 @@ class AdjacencyList {
   createNewNeighborNode(v) {
     return {
       name: v,
-      used: false,
       dfsType: "",
     };
   }

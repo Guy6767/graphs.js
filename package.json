@@ -1,5 +1,5 @@
 {
-  "name": "graphs.js",
+  "name": "javascript-graphs",
   "version": "1.0.0",
   "description": "An easy to use graph data structure with some useful algorithms",
   "main": "src/index.js",
@@ -15,5 +15,6 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^7.22.0"
-  }
+  },
+  "type": "module"
 }
