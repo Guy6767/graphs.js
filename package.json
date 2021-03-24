@@ -1,6 +1,6 @@
 {
   "name": "javascript-graphs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An easy to use graph data structure with some useful algorithms",
   "main": "src/index.js",
   "scripts": {

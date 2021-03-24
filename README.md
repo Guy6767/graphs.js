@@ -64,7 +64,7 @@ for (const v of G.neighbors("B")) {
 
 ## Algorithms
 
-Some algorthmis examples:
+Some algorithms examples:
 
 ```js
 import Graph from "javascript-graphs";
